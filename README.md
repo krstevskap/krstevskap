@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petrana</h1>
-- ⚡ Fun fact **I love dogs, comics, books and watching movies.**
+- ⚡ Fun fact **I love dogs, comics, books and movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
